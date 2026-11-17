@@ -1,0 +1,18 @@
+# ========================================================
+# File .gitignore - Danh sách file/thư mục Git sẽ BỎ QUA
+# ========================================================
+
+# File rác tự động của hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cấu hình cá nhân của IDE/Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ghi chú cá nhân hoặc file dữ liệu tạm
+notes.txt
+scratch/
+*.log
